@@ -22,6 +22,15 @@ Example: You are from the program "Archeology", so you need to send "1" to the b
 
 6) So, now is the final step, where you can see all the courses and their duration ![image](https://user-images.githubusercontent.com/115813128/197004455-aa39acad-5df6-4dd6-8c2d-96100ac3c79b.png)
 
+# Few important remarks
+
+1) All dependencies for VENV are in file "requirements.txt"
+
+2) The output of the bot depends on the information from HSE website
+
+3) If you want to use our bot with the other @username in telegram, the new bot should be created by @BotFather and toen should be replaced by yours ![image](https://user-images.githubusercontent.com/115813128/197203150-2cf7d1e4-6461-4533-80e0-de765c2e6100.png)
+
+
 # Future scope
 
 * Add a multilangue option
