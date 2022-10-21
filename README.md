@@ -30,6 +30,10 @@ Example: You are from the program "Archeology", so you need to send "1" to the b
 
 3) If you want to use our bot with the other @username in telegram, the new bot should be created by @BotFather and toen should be replaced by yours ![image](https://user-images.githubusercontent.com/115813128/197203150-2cf7d1e4-6461-4533-80e0-de765c2e6100.png)
 
+# Direct dependencies
+aiogram==2.22.2
+bs4==0.0.1
+lxml==4.7.1
 
 # Future scope
 
